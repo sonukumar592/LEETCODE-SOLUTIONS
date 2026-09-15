@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [2652-sum-multiples](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
