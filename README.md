@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2413-smallest-even-multiple](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
