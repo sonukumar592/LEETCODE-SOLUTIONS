@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
