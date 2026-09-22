@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 ## Stack
 |  |
@@ -111,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
