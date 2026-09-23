@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
