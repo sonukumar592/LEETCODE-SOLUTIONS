@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Dynamic Programming
 |  |
 | ------- |
