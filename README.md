@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0504-base-7](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0504-base-7) |
 | [1528-shuffle-string](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
