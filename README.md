@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
