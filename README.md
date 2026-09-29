@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
