@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
