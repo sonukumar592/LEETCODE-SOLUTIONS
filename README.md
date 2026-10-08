@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0976-largest-perimeter-triangle) |
 ## Enumeration
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
