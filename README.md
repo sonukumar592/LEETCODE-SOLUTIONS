@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0504-base-7) |
 | [1528-shuffle-string](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
