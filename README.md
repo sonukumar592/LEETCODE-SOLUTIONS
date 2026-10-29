@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2278-percentage-of-letter-in-string) |
+| [3019-number-of-changing-keys](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/3019-number-of-changing-keys) |
 ## Bit Manipulation
 |  |
 | ------- |
