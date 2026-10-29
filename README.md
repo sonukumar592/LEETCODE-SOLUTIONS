@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Matrix
