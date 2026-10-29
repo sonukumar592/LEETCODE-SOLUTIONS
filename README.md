@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2974-minimum-number-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2974-minimum-number-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
