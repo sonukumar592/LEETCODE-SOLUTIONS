@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
 | ------- |
