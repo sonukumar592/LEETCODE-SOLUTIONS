@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
