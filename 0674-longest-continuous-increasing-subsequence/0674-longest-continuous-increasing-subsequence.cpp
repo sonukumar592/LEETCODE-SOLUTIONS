@@ -5,7 +5,7 @@ public:
          return 0;
         int count=1;
         int max1=1;        
-        for(int i=0;i+1<nums.size();i++){
+        for(int i=0;i<(int)nums.size()-1;i++){
             if(nums[i]<nums[i+1]){
                 count++;
                 
