@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0575-distribute-candies](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
