@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2278-percentage-of-letter-in-string) |
 | [3019-number-of-changing-keys](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/3019-number-of-changing-keys) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2549-count-distinct-numbers-on-board) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2974-minimum-number-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -297,5 +301,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2974-minimum-number-game](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sonukumar592/LEETCODE-SOLUTIONS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
